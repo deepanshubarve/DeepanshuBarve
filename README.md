@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [expenses manager](https://github.com/deepanshubarve/KharchaManager)
 
-- 🌱 I’m currently learning **Django and DSA**
+- 🌱 I’m currently learning **kmp and DSA**
 
 - 👯 I’m looking to collaborate on [Ekart Gaints](https://github.com/deepanshubarve/EkartGaints)
 
