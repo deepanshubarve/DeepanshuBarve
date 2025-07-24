@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/barvedeepanshu" target="blank"><img src="https://img.shields.io/twitter/follow/barvedeepanshu?logo=twitter&style=for-the-badge" alt="barvedeepanshu" /></a> </p>
 
-- 🔭 I’m currently working on [Findalbe]([https://github.com/deepanshubarve/KharchaManager](https://github.com/deepanshubarve/Findable))
+- 🔭 I’m currently working on [Findalbe]([[https://github.com/deepanshubarve/KharchaManager]])
 
 - 🌱 I’m currently learning **kmp and DSA**
 
